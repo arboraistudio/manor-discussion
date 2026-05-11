@@ -1,10 +1,28 @@
 # Manor - Shared Living Management
 
-Manor is a comprehensive tool built to manage shared living spaces effortlessly. Below is a visual showcase of the application highlighting the newly updated Chores, Ledger, and Shopping pages!
+**Manor** is a comprehensive, open-source tool designed to make managing shared living spaces completely effortless. Built for roommates, couples, and families, Manor eliminates the friction, awkward conversations, and constant tracking involved in cohabitation.
+
+## 💡 What Problems Does Manor Solve?
+
+Living with others is great, but managing the logistics often isn't. Manor replaces the chaotic mess of group chats, physical whiteboards, and scattered Venmo requests with a single, elegant source of truth:
+
+*   **Financial Transparency:** No more guessing who paid for the internet last month or who bought the groceries. The **Ledger** tracks every shared expense and automatically calculates who owes who, allowing you to settle up with a single tap.
+*   **Chore Accountability:** Say goodbye to nagging. The **Chores** system lets you assign tasks (or leave them "Open" for anyone to claim), sets deadlines, and rewards roommates with points for completing their share of the work. If a chore is too hard or a deadline is too tight, you can instantly propose a renegotiation directly within the app.
+*   **Synchronized Shopping:** Ever buy milk only to find out your roommate bought it an hour earlier? The **Shared Shopping List** ensures everyone is looking at the same real-time list of household needs. When you buy an item, you can instantly split the cost into the Ledger.
+
+## 🗣️ Join the Discussion
+
+We are constantly looking for feedback, feature requests, and ideas to make Manor even better. 
+
+Got an idea? Found a bug? Just want to say hi? **[Join the conversation on our Discussions page!](https://github.com/arboraistudio/manor-discussion/discussions)**
 
 ---
 
-## ☀️ Light Theme
+## 📸 App Showcase
+
+Below is a visual showcase of the application highlighting our core features across both Light and Dark themes.
+
+### ☀️ Light Theme
 
 | Home Dashboard | Ledger & Expenses | Shared Shopping |
 |:---:|:---:|:---:|
@@ -18,7 +36,7 @@ Manor is a comprehensive tool built to manage shared living spaces effortlessly.
 
 ---
 
-## 🌙 Dark Theme
+### 🌙 Dark Theme
 
 | Home Dashboard | Ledger & Expenses | Shared Shopping |
 |:---:|:---:|:---:|
